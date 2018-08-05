@@ -1,4 +1,23 @@
 # CLIPS Tutorials and Resources
-You will find on this repository learning resources for beginners about CLIPS logical programming. To start with this peculiar language you should go through the ocumentation folder which contains the basic and advanced programming guides to start with CLIPS. Logical languages for programming in particular this one is a must to known for every computer science. You'll find extraordinary differencies with respect to the imperative one. You can also go straight forward to the examples just to have a look to the syntaxis however it is adviced to have a look first the ghe basic programming guid (bpg.pdf).
-The compiler should be easy to find for free browsing the net so download the right version you want to you.
+
+You will find on this repository learning resources for beginners about CLIPS logical programming. 
+
+# Folders: Documents and Examples
+
+To start with this peculiar language you should go through the documentation folder which contains the basic and advanced programming guides to start with CLIPS. 
+
+Logical languages for programming in particular CLIPS is so interesting to learn and at least to bear in mind its basic concept and ideas for every computer science. You'll find extraordinaries and stunning features and differencies with respect to the imperative languages.
+
+You could also go straight forward to the examples in the Examples folder just for example to have a look to the syntax however it is very advisable to have at learn first some basic concepts from the basic programming guid (bpg.pdf).
+
+# CLIPS Rule Based Programming Language Web Site
+
+http://clipsrules.sourceforge.net/
+
+# CLIPS Rule Based Programming Language
+
+https://sourceforge.net/projects/clipsrules/
+
+The compiler should work on any operated system Windows/MacOS and Linux from the about link chosing the right version you wanna use.
+
 Have fun!! :)
