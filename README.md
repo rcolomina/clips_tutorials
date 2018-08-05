@@ -22,6 +22,6 @@ Download the interpreter at:
 
 https://sourceforge.net/projects/clipsrules/
 
-The compiler should work on any operated system Windows/MacOS and Linux from the about link chosing the right version you wanna use.
+The compiler is written in C and it should work on any operated system Windows/MacOS or Linux. Click on the about link chosing the right version and OS you wanna use.
 
 Have fun!! :)
